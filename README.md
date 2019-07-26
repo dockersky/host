@@ -1,5 +1,5 @@
-1.pm build出安装包成功安装后，界面如图：
-  ![image](https://raw.githubusercontent.com/dockersky/host/master/1.bmp)
+1.pm build出安装包成功安装后，界面如图：\n
+  ![image](https://raw.githubusercontent.com/dockersky/host/master/1.bmp)\n
 2.在界面上“提示”，是对配置的一个帮忙。
   #==== groupName(组名)
    127.0.0.1 www.baidu.com
